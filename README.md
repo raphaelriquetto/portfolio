@@ -43,14 +43,15 @@ Meu objetivo é continuar evoluindo tecnicamente e desenvolver soluções que un
 
 - SQL
 - SQL Server
+- PostgreSQL
 - MySQL
 - ETL
 - AWS Glue
-- AWS Lambda
 
 ### Cloud & Infraestrutura
 
 - AWS
+- AWS Lambda
 - Amazon S3
 - Amazon EC2
 - Amazon CloudWatch
